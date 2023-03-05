@@ -1,0 +1,81 @@
+#about{
+    margin: 100px;
+}
+#qual{
+    margin: 100px;
+}
+#position{
+    position: relative;
+}
+#position1{
+    position: relative;
+    bottom: 60px;
+}
+.aligncenter{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.margin{
+    margin: 100px;
+}
+#backalign{
+    margin: 100px;
+    position: relative;
+}
+#move{
+    position: relative;
+}
+#endalign{
+    position: relative;
+    right: 10px;
+}
+.nav-link{
+    font-weight: bold;
+}
+.centeralign1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+}
+#aligncenter1{
+    text-align: center;
+    margin: 40px;
+}
+#marginbottom{
+    margin:30px;
+}
+.margin1{
+    margin: 10px;
+}
+#marginalign{
+    text-align: center;
+    margin: 20px;
+    font-size: x-large;
+    font-weight: bold;
+}
+.mb-3{
+    font-size: large;
+    font-weight: 600;
+}
+#expand{
+    
+    font-size: x-large;
+    font-weight: bold;
+    margin: 10px;
+    text-align: center;
+}
+.imgmov{
+    position: relative;
+    left: 250px;
+    width: 200px;
+}
+.imgmov1{
+    position: relative;
+    left: 400px;
+    width: 200px;
+}
+.imgmov2{
+    position: relative;
+    left:60px;
+}
